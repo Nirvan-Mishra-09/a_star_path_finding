@@ -20,3 +20,7 @@ Step 1: Using opencv to create a map, with clearance given by the user.
 
 ![map_astar](https://github.com/Nirvan-Mishra-09/a_star_path_finding/assets/127642231/52a23b13-463b-451f-b92c-8d0b3c41b665)
 
+
+Step 2: UI, taking input from the user, {Note: Radius of robot works for values 0 to 2 included}
+
+![UI](https://github.com/Nirvan-Mishra-09/a_star_path_finding/assets/127642231/371809ae-af76-4c0c-8b60-196bd7cd211d)
