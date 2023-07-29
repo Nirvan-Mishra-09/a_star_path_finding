@@ -32,11 +32,12 @@ Step 3: Action set for the robot:
 ![action_set](https://github.com/Nirvan-Mishra-09/a_star_path_finding/assets/127642231/0d28c1b5-6bb3-4d2d-8283-862a492530dd)
 
 
-Step 4: A_star algorithm implementation: (Video showing the node traversal as well as a 
+Step 4: A_star algorithm implementation: (Video showing the node traversal as well as a shortest path)
+
 
 https://github.com/Nirvan-Mishra-09/a_star_path_finding/assets/127642231/6d957cdc-4070-48ac-a6a0-82117afdaa14
 
-shortest path)
+
 
 
 
